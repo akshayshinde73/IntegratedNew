@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "181404028714",
+    "firebase_url": "https://integrate-69674.firebaseio.com",
+    "project_id": "integrate-69674",
+    "storage_bucket": "integrate-69674.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:181404028714:android:6ceb53efb3dd85cb",
+        "android_client_info": {
+          "package_name": "me.riddhi.gada.olcademy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "181404028714-uqvsboaehvh8cautt0ckn5tc3k0ovdja.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "me.riddhi.gada.olcademy",
+            "certificate_hash": "2e739595f81e3035121a6c640c5d8790d7ab6d3f"
+          }
+        },
+        {
+          "client_id": "181404028714-7qcvg9u6q70osn9krp5fat350uoretq0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHcr8wqsomT8_NnDHX2p5-_KNqCLwSEtc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "181404028714-7qcvg9u6q70osn9krp5fat350uoretq0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

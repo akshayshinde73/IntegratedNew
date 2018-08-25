@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/action_home"
+        android:icon="@drawable/ic_home"
+        android:title="Home"/>
+    <item
+        android:id="@+id/action_forum"
+        android:icon="@drawable/ic_group"
+        android:title="Forum"/>
+    <item
+        android:id="@+id/action_my_enroll"
+        android:icon="@drawable/ic_movie"
+        android:title="My Enrollments"/>
+    <item
+        android:id="@+id/action_notifs"
+        android:icon="@drawable/ic_notifications"
+        android:title="Notifications"/>
+    <item
+        android:id="@+id/action_profile"
+        android:icon="@drawable/ic_account"
+        android:title="Profile"/>
+</menu>
